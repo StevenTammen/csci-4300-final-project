@@ -25,7 +25,7 @@ SECRET_KEY = 'y4($rw#566m0+0)%3@vy(^w=3mcmuc0e6di!_9xq_n*ozd+b0q'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['172.19.50.192']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition

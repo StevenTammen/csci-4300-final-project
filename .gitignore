@@ -1,0 +1,9 @@
+bin/
+db.sqlite3
+lib/
+lib64
+manage.py
+pyvenv.cfg
+share/
+dashboard/__*
+cycles/__*
