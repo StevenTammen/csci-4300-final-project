@@ -1,3 +1,6 @@
+## Project Management Board
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/StevenTammen/cycles.svg?columns=all)](https://waffle.io/StevenTammen/cycles)
+
 ## Setting up nginx
 
 Add new location directives to nginx.conf
